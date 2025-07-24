@@ -247,7 +247,7 @@ RecipesExtractor/
 ├── Config.lua                    # Configuration centralisée
 ├── README.md                     # Documentation complète
 ├── CHANGELOG.md                  # Historique des versions
-├── LICENSE                       # Licence MIT
+├── LICENSE                       # Licence GPL v3
 │
 ├── Core/                         # Logique métier
 │   ├── Database.lua              # Gestion des données sauvegardées
@@ -362,7 +362,13 @@ Les contributions sont les bienvenues ! En tant que version Alpha :
 
 ## 📝 Licence
 
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+Ce projet est sous licence GPL v3. Voir le fichier LICENSE pour plus de détails.
+
+La licence GPL v3 garantit que :
+- ✅ Le code reste libre et open source
+- ✅ Toute modification doit être partagée avec la communauté
+- ✅ Personne ne peut s'approprier votre travail pour en faire un addon payant
+- ✅ Les améliorations profitent à tous les joueurs WoW Classic Era
 
 ## 🆘 Support
 
@@ -547,7 +553,7 @@ RecipesExtractor/
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+Ce projet est sous licence GPL v3. Voir le fichier LICENSE pour plus de détails.
 
 ## Contribution
 

@@ -1,0 +1,20 @@
+## Interface: 11404
+## Title: Recipes Extractor
+## Notes: Extract and manage profession recipes data for all characters
+## Author: yokoul@auberdine.eu
+## Version: 0.1.0-alpha
+## SavedVariables: RecipesExtractorDB
+## DefaultState: enabled
+## IconTexture: Interface\AddOns\RecipesExtractor\UI\Icons\rc64.png
+
+Config.lua
+Core\Database.lua
+Core\ProfessionData.lua
+Core\DataCollector.lua
+Core\DataManager.lua
+UI\MinimapButton.lua
+UI\MainFrame.lua
+UI\ExportFrame.lua
+Tests\Validator.lua
+Tests\TestSuite.lua
+RecipesExtractor.lua
